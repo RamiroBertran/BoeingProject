@@ -117,6 +117,16 @@ padding:40px;
 background-color:white;
 color:black;
 }
+footer .h2-footer {
+    font-size:1.5rem;
+    color:black;
+}
+footer ul li {
+color:black;
+padding:4px;
+font-size:1.2rem;
+text-align:left;
+}
 
 
 
